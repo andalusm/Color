@@ -5,6 +5,7 @@ This code is an implementation of the paper by the name of "Solving the Latin Sq
 The paper can be found in:
   https://ieeexplore.ieee.org/document/8640244
   
+An example can be seen in main of how to work with the files.
 
 
 
