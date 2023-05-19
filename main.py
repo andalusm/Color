@@ -1,6 +1,5 @@
 from Color import Coloring
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     Solver = Coloring(10)
     choices_of_ls = [
@@ -32,5 +31,3 @@ if __name__ == '__main__':
          {1, 2, 3, 5, 6, 8, 9}, {1, 2, 3, 5, 6, 8, 9}, {1, 2, 5, 6, 9}, {7}]]
     solution = Solver.solve(choices_of_ls)
     print(solution)
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
